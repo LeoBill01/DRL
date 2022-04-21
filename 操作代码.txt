@@ -1,0 +1,10 @@
+git init
+
+git remote add origin git@gitee.com:s1106980967/salaryshow.git
+
+git add .
+
+
+git  commit -m '20220420'
+
+git push origin master:Liang
